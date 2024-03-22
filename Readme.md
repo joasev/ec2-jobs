@@ -1,6 +1,6 @@
 # Tsunami with AWS SDK
 
-Tsuname AWS SDK is a adapted version of [Tsunami](https://github.com/jonhoo/tsunami), modified to utilize the official AWS SDK instead of the Rusoto library. The original Tsunami's utilizes an outdated version of Rusoto that relied on a yanked library. Given the substantial API breaking changes in newer versions of Rusoto, transitioning to the official AWS SDK for EC2 presented a more reasonable solution.
+An adapted version of [Tsunami](https://github.com/jonhoo/tsunami), modified to utilize the official AWS SDK instead of the Rusoto library. The original Tsunami's utilizes an outdated version of Rusoto that relied on a yanked library. Given the substantial API breaking changes in newer versions of Rusoto, transitioning to the official AWS SDK for EC2 presented a more reasonable solution.
 
 ## Overview
 
